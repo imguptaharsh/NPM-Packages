@@ -1,0 +1,26 @@
+{
+  "name": "hkg-colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify text",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imguptaharsh/NPM-Packages.git#7570ac5eb7eae5d0bedd8b917c13e90dc467636f"
+  },
+  "keywords": [
+    "Colory-text"
+  ],
+  "author": "Harsh Kumar Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imguptaharsh/NPM-Packages/issues"
+  },
+  "homepage": "https://github.com/imguptaharsh/NPM-Packages/tree/7570ac5eb7eae5d0bedd8b917c13e90dc467636f#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files":["lib/**/*"]
+}
