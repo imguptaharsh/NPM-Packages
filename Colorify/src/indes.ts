@@ -10,4 +10,4 @@ export class Log{
         console.log(`%c${msg}`, 'color: black; font-weight: bold','background: yellow')
     }
         
-}
+} 
