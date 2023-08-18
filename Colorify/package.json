@@ -1,5 +1,5 @@
 {
-  "name": "hkg-colorify",
+  "name": "hg-colorify",
   "version": "1.0.0",
   "description": "A library to colorify text",
   "main": "lib/index.js",
